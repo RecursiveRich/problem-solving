@@ -1,5 +1,6 @@
 // Given an integer array nums, find the contiguous subarray(containing at least one number) which has the largest sum and return its sum.
 // https://leetcode.com/problems/maximum-subarray/description/
+// https://medium.com/@marcellamaki/finding-the-maximum-contiguous-sum-in-an-array-and-kadanes-algorithm-e303cd4eb98c
 
 /**
  * @param {number[]} nums
